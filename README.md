@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Geoffrey</h1>
-<h3 align="center">a geek passionate by data & simplification</h3>
+### Hi there 👋, my name is Geoffrey
+#### I like Data Science
+I study civil engineer :construction_worker_man: and now I'm working in Insurance.
+I live in Belgium :belgium: with my wife and three sons :family:
 
-- 🌱 I’m currently learning **Python and Data Science**
+I'm not a professional programmer. I only like sit down behind my computer and write some lines of code.
 
-- ⚡ Fun fact **I have 3 children (2015, 2017 & 2020)**
+I speak French, Dutch & English. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/geoffreycoomans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geoffreycoomans" height="30" width="40" /></a>
-</p>
+I'm open to new position in Europe.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Skills: Python / SQL 
+
+- 🔭 I’m currently working on recipes database from eFarmz 
+- 🌱 I’m currently learning Data science 
+- 🤔 I’m looking for help with writing better Python code 
+- ⚡ Fun fact: I flew in zero-gravity :airplane: 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/g-coomans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/geoffreycoomans/)  
 
