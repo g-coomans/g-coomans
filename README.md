@@ -4,10 +4,11 @@ I study civil engineer :construction_worker_man: and now I'm working in Insuranc
 I live in Belgium :belgium: with my wife and three sons :family:
 
 I'm not a professional programmer. I only like sit down behind my computer and write some lines of code.
+This explains why I don't contribute regulary.
 
 I speak French, Dutch & English. 
 
-I'm open to new position in Europe.
+I'm open to new position as data scientist or related in Europe.
 
 Skills: Python / SQL 
 
