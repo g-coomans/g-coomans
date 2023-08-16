@@ -8,15 +8,9 @@ This explains why I don't contribute regulary.
 
 I speak French, Dutch & English. 
 
-I'm open to new position as data scientist or related in Europe.
-
-Skills: Python / SQL 
-
-- 🔭 I’m currently working on recipes database from eFarmz 
-- 🌱 I’m currently learning Data science 
+Skills: Python / SQL / Webscrapping / Automatisation / Solution-oriented 
 - 🤔 I’m looking for help with writing better Python code 
 - ⚡ Fun fact: I flew in zero-gravity :airplane: 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/g-coomans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/geoffreycoomans/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/geoffreycoomans/)  
 
